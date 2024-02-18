@@ -1,0 +1,35 @@
+.trending-single-container {
+    width: 100%;
+    min-width: 320px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.trending-img {
+    width: auto;
+    height: 100%;
+    max-height: 120px;
+}
+
+.trending-text-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.trending-number {
+    color: var(--grayish-blue);
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.trending-title {
+    font-weight: 800;
+}
+
+.trending-title:hover {
+    cursor: pointer;
+    color: var(--soft-red);
+}
