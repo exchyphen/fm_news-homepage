@@ -10,7 +10,7 @@
   /* font */
   font-family: "Inter", sans-serif;
   font-size: 15px;
-  color: var(--very-dark-blue);
+  color: var(--dark-grayish-blue);
 }
 
 *, *::before, *::after {

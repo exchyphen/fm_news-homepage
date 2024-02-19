@@ -26,6 +26,7 @@
 }
 
 .trending-title {
+    color: var(--very-dark-blue);
     font-weight: 800;
 }
 
